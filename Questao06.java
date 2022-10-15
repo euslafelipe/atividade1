@@ -16,7 +16,7 @@ public class Questao06 {
          System.out.println("Cada pessoa vai pagar:"+ divisao);
 
 
-
+    ler.close();
 
     }
     

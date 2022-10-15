@@ -20,6 +20,7 @@ public class Questao01 {
         }else{
             System.out.println("Reprovado");
 
+    ler.close();
     
     }
 

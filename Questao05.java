@@ -16,7 +16,7 @@ public class Questao05 {
          System.out.println("o valor da refeição foi:"+ valorc);
 
 
-
+        ler.close();
 
     }
     

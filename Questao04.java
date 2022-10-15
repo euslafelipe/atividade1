@@ -19,6 +19,8 @@ public class Questao04 {
 
         System.out.println(nome+" vai receber "+ salario);
 
+        ler.close();
+
     }
 
 

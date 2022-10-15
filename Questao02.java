@@ -14,6 +14,8 @@ public class Questao02 {
     System.out.println("O valor anterior é :"+ anterior);
     System.out.println("O valor anterior é : "+ sucessor);
 
+    ler.close();
+
     }
 
 }
